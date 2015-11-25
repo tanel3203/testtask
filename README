@@ -5,4 +5,4 @@ Not added:
 * Video has default content.
 * Mobile version @media queries.
 * footer menu hover (gray to color).
-* FOCUSED ON CHROME, IE not supported, Firefox has small bugs around slider area.
+* FOCUSED ON CHROME,  Firefox has small bugs around slider area, other browsers not supported, although newer IE versions work.
